@@ -1,0 +1,3 @@
+Model,Best Parameters,Best F1 Score
+Random Forest,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 200}",0.9576260615457737
+SVM,"{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}",0.9888343830742964
